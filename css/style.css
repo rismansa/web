@@ -1,0 +1,109 @@
+.slider h4,
+.slider h3,
+.judul h3,
+.bidang h4 {
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);
+}
+
+.bidang {
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+
+.parallax-container {
+    height: 450px;
+}
+
+.bidangrisma {
+    border-radius: 25px;
+}
+
+.tentangrisma {
+    border-radius: 25px;
+}
+
+.card-image,
+.card {
+    border-radius: 20px;
+}
+
+.bidang a:hover {
+    color: salmon;
+}
+
+.ilustrasi img {
+    width: 250px;
+    height: 250px;
+    margin-top: -40px;
+}
+
+.ilustrasi h5 {
+    margin-top: -10px;
+}
+
+.logorisma img {
+    width: 300px;
+    height: 300px;
+}
+
+.logorisma {
+    margin-top: -20px;
+}
+
+.dftr-btn {
+    background-color: #b71c1c;
+    width: 150px;
+    margin: 0 auto;
+    border-radius: 40px;
+}
+
+.dftr-btn a {
+    color: #ffffff;
+    font-size: 20px;
+}
+
+section,
+.kontak,
+footer {
+    padding: 10px 0;
+}
+
+.kontakrisma {
+    border-radius: 25px;
+}
+
+.kontak {
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    margin-top: 30px;
+}
+
+.kontak a,
+.bidang a {
+    color: black;
+}
+
+.kontak a:hover {
+    color: salmon;
+}
+
+footer {
+    margin-top: -5px;
+}
+
+/* fontstyle */
+.slides,
+#tentang,
+.parallax-container h3,
+#bidang,
+#dokumentasi,
+#kontak,
+.navbar-fixed,
+.sidenav,
+.ilustrasi,
+.dftr-btn {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+/* cssnya acak acakan nanti beresin ya */

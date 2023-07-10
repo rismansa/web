@@ -1,0 +1,43 @@
+body {
+    background-color: #e8e8e8;
+}
+
+.judul {
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);
+}
+
+.tentangbidang {
+    border-radius: 25px;
+}
+
+.card-image,
+.card {
+    border-radius: 20px;
+}
+
+.parallax-container {
+    height: 450px;
+}
+
+section,
+footer {
+    padding: 10px 0;
+}
+
+.dokumentasi {
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+footer {
+    margin-top: -5px;
+}
+
+/* fontstyle */
+.navabr-fixed,
+.sidenav,
+.parallax-container h3,
+.container,
+.dokumentasi {
+    font-family: 'Poppins', sans-serif;
+}
